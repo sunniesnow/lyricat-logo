@@ -8,7 +8,7 @@ A sketch of Xue, with cat ears.
 
 ## Editing
 
-Use [Inkscape](https://inkscape.org) to edit `logo.svg`.
+Use [Inkscape](https://inkscape.org) to edit `logo.svg` and `logoCN.svg`.
 
 ## Build
 
